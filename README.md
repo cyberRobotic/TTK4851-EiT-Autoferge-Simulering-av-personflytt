@@ -1,4 +1,4 @@
-# TTK4851-EiT-Autoferge-Simulering-av-personflytt
+# TTK4851 EiT Autoferge prosjekt Simulering-av-personflytt
  
  Dette prosjektet krever minimum Matlab versjon R2018B med Simulink og bibloteket SimEvents.
  
