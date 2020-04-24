@@ -12,8 +12,8 @@
  For å kjøre en simulering utføres følgende.
  1. Ha alle filer i samme mappe.
  2. Kjør filen configFile.m
- 3. Åpne Simulink modellen
+ 3. Åpne Simulink modellen 
     3a) Filen heter EiTR2018B.slx
-    3b) Kjør simuleringen
+    3b) Kjør simuleringen 
  4. Kjør filen Anitmation.m for fremvisning av animasjon.
 
